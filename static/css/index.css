@@ -1,0 +1,44 @@
+html,body { height: 100%; margin: 0px; padding: 0px; }
+/*
+http://images.123hdwallpapers.com/20150702/book-table-blur-1680x1050.jpg
+http://lifeofmarketingproject.com/wp-content/uploads/2015/09/journal.jpg
+*/ 
+
+
+
+
+#above-defold {
+  height: 100%;
+  background: url('../img/me at google.jpg') no-repeat center center fixed;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	/*background-color: #247BA0;   #ee6e73*/
+
+}
+
+#above-defold-text{
+  margin-top: 25%;
+}
+
+#about-me {
+  background-color: #eceff1;
+  padding-top: 50px;
+  margin-bottom: -20px;
+}
+
+#about-me p{
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 18px;
+}
+
+.skills-list {
+  font-size: 20px;
+}
+    
+.parallax-container {
+      height: 500px;
+    }
